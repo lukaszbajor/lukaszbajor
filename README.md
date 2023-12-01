@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lukaszbajor
 - 👀 I'm interested in create websites, music and football 
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning React.js
 - 💞️ I am looking for my first job as frontend developer 
 - 📫 How to reach me: email - lukaszbajor01@gmail.com | linkedin - https://www.linkedin.com/in/%C5%82ukasz-bajor-8a8612183/
 
